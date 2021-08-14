@@ -1,4 +1,4 @@
-FROM ICEETHON-AR/ICE-PACK:alpine
+FROM ICEETHON-AR/ICE-XPACK:alpine
 
 #clonning repo 
 RUN git clone https://github.com/ICETHON-AR/ICE-XPACK.git /root/userbot
