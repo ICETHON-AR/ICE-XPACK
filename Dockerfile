@@ -1,7 +1,7 @@
-FROM SONEXTELETHON/Telethon-x:alpine
+FROM ICEETHON-AR/ICETHON-PACK:alpine
 
 #clonning repo 
-RUN git clone https://github.com/SONEXTELETHON/Telethon-x.git /root/userbot
+RUN git clone https://github.com/ICETHON-AR/ICE-PACK.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
