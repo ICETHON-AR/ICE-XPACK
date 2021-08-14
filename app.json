@@ -1,13 +1,13 @@
 {
-  "name": "Telethon-x - USERBOT",
-  "description": "Arabic Userbot - @ll5DI ",
-  "logo": "https://telegra.ph/file/74ac106749023c82a52ed.jpg",
+  "name": "ICE-THON - USERBOT",
+  "description": "Arabic Userbot - @ICE16 ",
+  "logo": "https://telegra.ph/file/6094170a833051afc2924.jpg",
   "keywords": [
     "plugin",
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/SONEXTELETHON/Telethon-xpack/",
+  "repository": "https://github.com/ICETHON-AR/ICETHON-PACK/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -77,7 +77,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رمز السورس",
-      "value": "Telethon-x",
+      "value": "ICE-THON",
       "required": false
     }
   },
