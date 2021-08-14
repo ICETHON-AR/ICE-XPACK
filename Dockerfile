@@ -1,7 +1,7 @@
 FROM ICEETHON-AR/ICE-PACK:alpine
 
 #clonning repo 
-RUN git clone https://github.com/ICETHON-AR/ICE-PACK.git /root/userbot
+RUN git clone https://github.com/ICETHON-AR/ICE-XPACK.git /root/userbot
 #working directory 
 WORKDIR /root/userbot
 
